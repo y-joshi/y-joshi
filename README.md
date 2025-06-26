@@ -1,6 +1,4 @@
-### Hi there 👋
-
--  Just your friendly neighborhood nerd optimizing time and space drama.
+### Hi there, Just your friendly neighborhood nerd optimizing Time and Space drama 🙂
 
 <!--
 **y-joshi/y-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
