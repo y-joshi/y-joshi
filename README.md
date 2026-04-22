@@ -12,7 +12,7 @@
 
 # `< Yash Joshi />`
 
-### ⚡ Design. Build. Analyze. 
+### ⚡ Design. Build. Launch. 
 
 <br/>
 
